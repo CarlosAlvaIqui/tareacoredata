@@ -13,6 +13,8 @@
 		C3D82D862270B9DC00266CAC /* tareacoredata.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = C3D82D842270B9DC00266CAC /* tareacoredata.xcdatamodeld */; };
 		C3D82D882270B9DF00266CAC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3D82D872270B9DF00266CAC /* Assets.xcassets */; };
 		C3D82D8B2270B9DF00266CAC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3D82D892270B9DF00266CAC /* LaunchScreen.storyboard */; };
+		C3D82D932270C3D200266CAC /* ViewControllerCrearCurso.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D82D922270C3D200266CAC /* ViewControllerCrearCurso.swift */; };
+		C3D82D952270CDB600266CAC /* ViewControllerEditarCurso.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3D82D942270CDB600266CAC /* ViewControllerEditarCurso.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		C3D82D872270B9DF00266CAC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3D82D8A2270B9DF00266CAC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3D82D8C2270B9DF00266CAC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3D82D922270C3D200266CAC /* ViewControllerCrearCurso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerCrearCurso.swift; sourceTree = "<group>"; };
+		C3D82D942270CDB600266CAC /* ViewControllerEditarCurso.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerEditarCurso.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				C3D82D892270B9DF00266CAC /* LaunchScreen.storyboard */,
 				C3D82D8C2270B9DF00266CAC /* Info.plist */,
 				C3D82D842270B9DC00266CAC /* tareacoredata.xcdatamodeld */,
+				C3D82D922270C3D200266CAC /* ViewControllerCrearCurso.swift */,
+				C3D82D942270CDB600266CAC /* ViewControllerEditarCurso.swift */,
 			);
 			path = tareacoredata;
 			sourceTree = "<group>";
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				C3D82D802270B9DC00266CAC /* ViewController.swift in Sources */,
+				C3D82D952270CDB600266CAC /* ViewControllerEditarCurso.swift in Sources */,
+				C3D82D932270C3D200266CAC /* ViewControllerCrearCurso.swift in Sources */,
 				C3D82D7E2270B9DC00266CAC /* AppDelegate.swift in Sources */,
 				C3D82D862270B9DC00266CAC /* tareacoredata.xcdatamodeld in Sources */,
 			);
